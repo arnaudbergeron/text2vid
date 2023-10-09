@@ -6,6 +6,9 @@ The goal of this project was to create automated video creation flow.
 Here's an example output video:
 
 
+https://github.com/arnaudbergeron/text2vid/assets/58529583/a9b67f81-168b-493e-a687-1dda1b621204
+
+
 
 Here's how the pipeline goes:
 
@@ -17,6 +20,7 @@ Here's how the pipeline goes:
 
 
 This project was meant to explore the feasability of such a tool. It is not meant to be a production ready tool.
+More work could've been put into making the videos feel more natural but I decided to move on to different projects.
 
 TTS model used: https://github.com/neonbjb/tortoise-tts 
 3d facial animation model used: https://github.com/Doubiiu/CodeTalker
